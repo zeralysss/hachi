@@ -1,0 +1,16 @@
+This bot ("Hachi") is designed to manage temporary voice channels on Discord and does not collect, store, or share personal data beyond what is necessary for its basic functionality. The Bot may temporarily access information such as:
+
+Your Discord username and ID
+Server IDs and Voice Channel IDs
+Temporary voice channel settings
+This information is only used for managing voice channels and is never stored permanently or shared with third parties.
+
+Data Storage:
+The Bot does not store any data outside of Discord’s infrastructure. Once a temporary voice channel is deleted, all associated information is immediately removed.
+
+Third-Party Services:
+The Bot does not share any data with third-party services or applications.
+
+Changes to this Policy:
+We reserve the right to update this Privacy Policy as necessary. You will be notified of any changes within the Bot’s designated channels or in your server’s announcement.
+
